@@ -21,7 +21,7 @@
 
 <style scoped>
 	.navbar {
-		@apply lg:flex lg:items-center lg:justify-between lg:px-10 w-full bg-gradient-to-r from-sky-500 to-indigo-600 fixed top-0 left-0 right-0 px-5 lg:py-8 py-3;
+		@apply z-20 lg:flex lg:items-center lg:justify-between lg:px-10 w-full bg-gradient-to-r from-sky-500 to-indigo-600 fixed top-0 left-0 right-0 px-5 lg:py-8 py-3;
 	}
 
 	.navbar-brand {
