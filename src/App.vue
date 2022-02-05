@@ -1,6 +1,6 @@
 <template>
 	<main class="app">
-		<router-view></router-view>
+		Landing Page
 	</main>
 </template>
 
