@@ -1,11 +1,15 @@
 <template>
-	<main class="app">
-		Landing Page
+	<main class="w-full">
+
+		<section class="w-full px-5 lg:px-10 xl:px-12 bg-gradient-to-r from-sky-500 to-indigo-600">
+			<Navbar />
+		</section>
+		
 	</main>
 </template>
 
-<style scoped>
-	.app {
-		@apply p-5 w-full md:w-6/12 lg:w-5/12 md:mx-auto xl:w-4/12
-	}
-</style>
+<script setup>
+
+	import Navbar from '@/components/Navbar.vue'
+
+</script>
