@@ -2,7 +2,7 @@
 	<Navbar />
 	<main class="w-full">
 
-		<section class="min-h-screen w-full px-6 py-8 md:px-12 xl:px-28 bg-gradient-to-r from-sky-500 to-indigo-600">
+		<section class="lg:min-h-screen w-full px-6 py-8 md:px-16 xl:px-28 bg-gradient-to-r from-sky-500 to-indigo-600">
 			<Headline />
 		</section>
 		

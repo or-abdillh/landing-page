@@ -1,9 +1,9 @@
 <template>
-	<main class="z-10 mt-20 lg:pt-28 lg:flex lg:flex-row-reverse lg:justify-between lg:items-center gap-3">
+	<main class="z-10 mt-20 md:py-10 lg:pt-28 md:flex md:flex-row-reverse md:justify-between md:items-center gap-3">
 
-		<img src="/vector.png" class="lg:w-5/12 block mb-8 lg:mb-0" />
+		<img src="/vector.png" class="md:w-5/12 block mb-8 lg:mb-0" />
 
-		<div class="lg:w-6/12">
+		<div class="md:w-6/12">
 			<h1 id="heading" class="lg:text-5xl lg:leading-snug text-3xl text-gray-50 font-semibold">
 				IT Gathering HIMA TI Politeknik Hasnur Tahun 2022 👏🏻
 			</h1>
