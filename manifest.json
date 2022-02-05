@@ -1,7 +1,7 @@
 {
   "name": "Landing Page - IT Gathering HIMA TI Polihasnur 2022",
   "short_name": "IT Gathering",
-  "theme_color": "#FFFFFF",
+  "theme_color": "##2D78E6",
   "background_color": "#FFFFFF",
   "display": "standalone",
   "orientation": "portrait",
