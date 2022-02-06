@@ -23,6 +23,10 @@
 		<section class="section bg-gray-100">
 			<About />
 		</section>
+
+		<section class="section bg-gray-50">
+			<Event />
+		</section>
 		
 	</main>
 </template>
@@ -32,6 +36,7 @@
 	import Navbar from '@/components/Navbar.vue'
 	import Headline from '@/components/Headline.vue'
 	import About from '@/components/About.vue'
+	import Event from '@/components/Event.vue'
 
 	const highlights = [
 		{
@@ -65,6 +70,6 @@
 
 <style scoped>
 	.section {
-		@apply w-full px-6 py-8 md:px-16 xl:px-28;
+		@apply w-full px-6 py-12  md:px-16 xl:px-28;
 	}
 </style>
