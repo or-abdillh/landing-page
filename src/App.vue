@@ -27,6 +27,10 @@
 		<section class="section bg-gray-50">
 			<Event />
 		</section>
+
+		<section class="section bg-gray-100">
+			<FAQ />
+		</section>
 		
 	</main>
 </template>
@@ -37,6 +41,7 @@
 	import Headline from '@/components/Headline.vue'
 	import About from '@/components/About.vue'
 	import Event from '@/components/Event.vue'
+	import FAQ from '@/components/FAQ.vue'
 
 	const highlights = [
 		{
