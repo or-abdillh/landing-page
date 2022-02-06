@@ -12,7 +12,6 @@
     "pinia": "^2.0.10",
     "postcss": "^8.4.5",
     "tailwindcss": "^3.0.18",
-    "typeit": "^8.2.0",
     "vue": "^3.2.25"
   },
   "devDependencies": {
