@@ -60,7 +60,7 @@
 		},
 		{
 			name: 'Kegiatan',
-			to: '#'
+			to: '#event'
 		},
 		{
 			name: 'FAQ',

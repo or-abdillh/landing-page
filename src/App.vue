@@ -41,7 +41,7 @@
 	const highlights = [
 		{
 			title: 'Peserta',
-			num: 42,
+			num: 34,
 			icon: 'fas fa-user-friends'
 		},
 		{
