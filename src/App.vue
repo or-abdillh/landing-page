@@ -20,15 +20,15 @@
 			</template>
 		</section>
 	
-		<section class="section bg-gray-100">
+		<section id="about" class="section bg-gray-100">
 			<About />
 		</section>
 
-		<section class="section bg-gray-50">
+		<section id="event" class="section bg-gray-50">
 			<Event />
 		</section>
 
-		<section class="section bg-gray-100">
+		<section id="FAQ" class="section bg-gray-100">
 			<FAQ />
 		</section>
 		

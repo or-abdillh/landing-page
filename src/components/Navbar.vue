@@ -64,7 +64,7 @@
 		},
 		{
 			name: 'FAQ',
-			to: '#'
+			to: '#FAQ'
 		},
 		{
 			name: 'Narahubung',

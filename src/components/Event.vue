@@ -1,5 +1,5 @@
 <template>
-	<main id="event">
+	<main>
 		<h1 class="text-center pb-6 text-3xl md:text-4xl lg:text-5xl font-semibold text-indigo-500">Kegiatan</h1>
 		<p class="text-gray-600 text-center lg:px-24">Seluruh rangkaian kegiatan akan dimulai pada hari selasa, 1 maret 2022 sampai dengan hari penutupan pada kamis, 3 maret 2022</p>
 		<section class="mt-10 md:flex flex-wrap justify-between gap-5">
