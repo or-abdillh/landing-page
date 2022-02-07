@@ -6,7 +6,7 @@ export default [
 	},
 	{
 		name: 'Efendi Syaifullah',
-		job: 'Presiden Mahasiswa BEM Politeknik Hasnur',
+		job: 'Presiden Mahasiswa Politeknik Hasnur',
 		avatar: 'https://dl.dropbox.com/s/0xvrq6impbvonpp/save_20220207_160043-picsay.jpg?dl=2'
 	},
 	{
