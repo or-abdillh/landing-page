@@ -7,7 +7,7 @@
 			</section>
 			<section>
 				<strong>HIMA Teknik Informatika Politeknik Hasnur</strong>
-				<p class="mb-4">Kabinet Ruhui Rahayu</p>
+				<p class="mb-4">Kabinet Ruhuy Rahayu</p>
 				<ul>
 					<li>
 						<i class="fab fa-whatsapp text-green-400 mr-2"></i>
