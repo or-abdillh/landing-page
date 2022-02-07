@@ -68,7 +68,7 @@
 		},
 		{
 			name: 'Narahubung',
-			to: '#'
+			to: '#contact'
 		}
 	]
 	
