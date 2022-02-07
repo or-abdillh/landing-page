@@ -4,6 +4,10 @@
 	const props = defineProps({
 		profile: {
 			type: Object
+		},
+		useSosmed: {
+			type: Boolean,
+			default: true
 		}
 	})
 	
@@ -16,7 +20,7 @@
 			<h1 class="text-xl font-semibold">{{ profile.name }}</h1>
 			<h3 class="md:text-sm">{{ profile.job }}</h3>
 		</div>
-		<div class="w-full flex justify-center gap-3 mt-4">
+		<div v-if="useSosmed"  class="w-full flex justify-center gap-3 mt-4">
 			<a href="" >
 				<i class="fab fa-instagram"></i>
 			</a>
@@ -27,5 +31,8 @@
 				<i class="fab fa-youtube"></i>
 			</a>
 		</div>
+
+		<slot name="footer"></slot>
+		
 	</main>
 </template>

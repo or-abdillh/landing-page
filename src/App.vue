@@ -31,6 +31,10 @@
 		<section id="FAQ" class="section bg-gray-100">
 			<FAQ />
 		</section>
+
+		<section id="contact" class="section bg-gray-50">
+			<Contact />
+		</section>
 		
 	</main>
 </template>
@@ -42,6 +46,7 @@
 	import About from '@/components/About.vue'
 	import Event from '@/components/Event.vue'
 	import FAQ from '@/components/FAQ.vue'
+	import Contact from '@/components/Contact.vue'
 
 	const highlights = [
 		{
