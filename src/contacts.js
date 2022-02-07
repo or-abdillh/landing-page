@@ -7,7 +7,7 @@ export default [
 	},
 	{
 		name: 'Muhammad Yanto',
-		job: 'Anggota Divisi Kewirausahaan HIMA TI Polihasnur',
+		job: 'Koordinator Divisi Kewirausahaan HIMA TI Polihasnur',
 		avatar: 'https://dl.dropbox.com/s/kp5ohmjrqb5ljq6/yanto-picsay.jpg?dl=2',
 		contact: '+6282151596135'
 	}
