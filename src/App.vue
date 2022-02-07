@@ -35,6 +35,10 @@
 		<section id="contact" class="section bg-gray-50">
 			<Contact />
 		</section>
+
+		<section class="section bg-gradient-to-r from-slate-700 to-indigo-900">
+			<Footer />
+		</section>
 		
 	</main>
 </template>
@@ -47,6 +51,7 @@
 	import Event from '@/components/Event.vue'
 	import FAQ from '@/components/FAQ.vue'
 	import Contact from '@/components/Contact.vue'
+	import Footer from '@/components/Footer.vue'
 
 	const highlights = [
 		{
@@ -80,6 +85,6 @@
 
 <style scoped>
 	.section {
-		@apply w-full px-6 py-12  md:px-16 xl:px-28;
+		@apply w-full px-6 py-12 md:px-16 xl:px-28;
 	}
 </style>

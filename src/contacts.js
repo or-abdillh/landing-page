@@ -1,14 +1,14 @@
 export default [
 	{
 		name: 'Raudatul Zannah',
-		job: 'Anggota Divisi Kominfo HIMA TI',
-		avatar: '/avatar.jpg',
+		job: 'Anggota Divisi Kominfo HIMA TI Polihasnur',
+		avatar: 'https://dl.dropbox.com/s/cko5q4f7g0tluni/SAVE_20220207_145255-picsay.jpg?dl=2',
 		contact: '+6285750845687'
 	},
 	{
-		name: 'Nadia',
-		job: 'Anggota Divisi Kewirausahaan HIMA TI',
-		avatar: '/avatar.jpg',
-		contact: '+6282352103683'
+		name: 'Muhammad Yanto',
+		job: 'Anggota Divisi Kewirausahaan HIMA TI Polihasnur',
+		avatar: 'https://dl.dropbox.com/s/kp5ohmjrqb5ljq6/yanto-picsay.jpg?dl=2',
+		contact: '+6282151596135'
 	}
 ]

@@ -1,7 +1,7 @@
 export default [
 	{
-		name: 'Tediq Prigel Kaloka S.I',
-		job: 'Kepala program studi D3 Teknik Informatika Polihasnur dan pembina HIMA TI Polihasnur',
+		name: 'Tesdiq Prigel Kaloka, M.Si',
+		job: 'Kepala prodi D3 TI Polihasnur dan pembina HIMA TI Polihasnur',
 		avatar: '/avatar.jpg'
 	},
 	{
@@ -10,8 +10,8 @@ export default [
 		avatar: '/avatar.jpg'
 	},
 	{
-		name: 'Fulan bin Fulan',
-		job: 'CTO NeuXtrick',
+		name: 'Mr. Guest',
+		job: 'Perwakilan neuCentrIX',
 		avatar: '/avatar.jpg'
 	}
 ]

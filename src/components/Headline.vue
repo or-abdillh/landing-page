@@ -21,7 +21,7 @@
 			<div class="mt-10 md:mt-16 text-gray-100 flex items-center gap-2">
 				<a href="https://instagram.com/hima_ti.polihasnur?utm_medium=copy_link" target="_blank">
 					<i class="fab fa-instagram text-2xl text-pink-600"></i>
-						hima.ti_polihasnur
+						hima_ti.polihasnur
 				</a>
 			</div>
 		</section>
