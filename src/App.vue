@@ -36,9 +36,14 @@
 			<Contact />
 		</section>
 
+		<section id="announcement" class="section bg-gray-100">
+			<Announcement />
+		</section>
+		
 		<section class="section bg-gradient-to-r from-slate-700 to-indigo-900">
 			<Footer />
 		</section>
+
 		
 	</main>
 </template>
@@ -51,6 +56,7 @@
 	import Event from '@/components/Event.vue'
 	import FAQ from '@/components/FAQ.vue'
 	import Contact from '@/components/Contact.vue'
+	import Announcement from '@/components/Announcement.vue'
 	import Footer from '@/components/Footer.vue'
 
 	const highlights = [

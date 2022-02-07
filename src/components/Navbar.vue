@@ -69,6 +69,10 @@
 		{
 			name: 'Narahubung',
 			to: '#contact'
+		},
+		{
+			name: 'Pengumuman',
+			to: '#announcement'
 		}
 	]
 	
