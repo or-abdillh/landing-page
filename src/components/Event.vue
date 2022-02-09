@@ -18,7 +18,7 @@
 		</section>
 
 		<section class="mt-12">
-			<p class="text-indigo-500 font-semibold text-xl lg:text-2xl md:text-center mb-5">Para narasumber kita 👏🏻</p>
+			<p class="text-indigo-500 font-semibold text-xl lg:text-2xl md:text-center mb-5">Para narasumber kita &#128075</p>
 			<div class="md:flex justify-evenly gap-6">
 				<template v-for="(speaker, x) in speakers" :key="x">
 					<CardProfile :profile="speaker" />

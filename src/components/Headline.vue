@@ -5,7 +5,7 @@
 
 		<section class="md:w-6/12">
 			<h1 id="heading" class="lg:text-5xl lg:leading-snug text-3xl text-gray-50 font-semibold">
-				IT Gathering HIMA TI Politeknik Hasnur Tahun 2022 👏🏻
+				IT Gathering HIMA TI Politeknik Hasnur Tahun 2022 &#128075
 			</h1>
 			<p class="lg:text-2xl text-gray-100 font-medium mt-4">Dengan tema :</p>
 			<p class="lg:text-2xl text-gray-100 font-medium">
