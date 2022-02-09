@@ -47,7 +47,7 @@
 	const showMenu = ref(false)
 	const viewport = computed(() => window.innerWidth)
 
-	if ( viewport.value > 768 ) showMenu.value = true
+	if ( viewport.value >= 768 ) showMenu.value = true
 	
 	const menus = [
 		{
