@@ -1,6 +1,6 @@
 <h3 align="center">Landing Page</h3>
 <p align="center">IT Gathering HIMA TI Politeknik Hasnur Tahun 2022 - Build using Vue JS and Tailwind</p>
-<img src="./src/assets/banner.png" width="100" />
+<img src="./src/assets/banner.png" />
 
 ## About
 The landing page for the "IT Gathering HIMA TI Polihasnur in 2022" is the official website that contains introductory information about this activity as well as being an information center during the activity. 
@@ -8,7 +8,7 @@ The landing page for the "IT Gathering HIMA TI Polihasnur in 2022" is the offici
 This website was built to make it easier for participants to recognize and find information about this activity and to make it easier to disseminate information to participants
 
 ## Responsive Test
-<img src="./src/assets/responsive-test.png" width="100" />
+<img src="./src/assets/responsive-test.png" />
 
 ## Languages and Tools
 - Vue JS 3
