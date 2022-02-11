@@ -1,4 +1,5 @@
 <script setup>
+  //For render announcment content
 	const props = defineProps({
 		feed: {
 			type: Object

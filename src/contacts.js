@@ -1,3 +1,5 @@
+// Content for narahubung section
+
 export default [
 	{
 		name: 'Raudatul Zannah',

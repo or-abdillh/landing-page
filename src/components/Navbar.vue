@@ -7,7 +7,7 @@
 				<i class="fa fa-bars text-gray-50 text-2xl"></i>
 			</button>
 		</section>
-
+		
 		<section :class="showMenu ? 'right-0' : '-right-full'" class="navbar-menu">
 			<ul class="navbar-list">
 			<span @click="showMenu = false" class=" md:hidden"><i class="fa fa-times text-gray-50"></i></span>
@@ -41,13 +41,13 @@
 
 <script setup>
 
-	import { ref, computed } from 'vue'
+	import { ref } from 'vue'
 
 	const menuActive = ref('Beranda')
 	const showMenu = ref(false)
-	const viewport = computed(() => window.innerWidth)
+	const viewport = ref(window.innerWidth) //Get current width of browser
 
-	if ( viewport.value >= 768 ) showMenu.value = true
+	if ( viewport.value >= 768 ) showMenu.value = true //If device tablet or more wider shoow menu
 	
 	const menus = [
 		{

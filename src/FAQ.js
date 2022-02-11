@@ -1,3 +1,5 @@
+// Content for FAQ's section
+
 export default [
 	{
 		num: 1,

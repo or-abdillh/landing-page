@@ -1,3 +1,5 @@
+// Content for kegiatan section , narasumber sub section
+
 export default [
 	{
 		name: 'Tesdiq Prigel Kaloka, M.Si',

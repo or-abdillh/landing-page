@@ -1,3 +1,5 @@
+//Content for announcement section
+//Using tag html on content property for create custom higlight
 export default [
 	{
 		title: 'Soisialisasi kegiatan IT Gathering HIMA TI Polihasnur 2022',

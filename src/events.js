@@ -1,3 +1,5 @@
+//Content for kegiatan section
+
 export default [
 	{
 		title: 'Sosialisasi Kampus Politeknik Hasnur',

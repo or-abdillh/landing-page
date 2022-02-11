@@ -11,7 +11,8 @@
 </template>
 <script setup>
 	import { ref } from 'vue'
-
+  
+  //Handler for expand content
 	const showElement = ref(false)
 	const props = defineProps({
 		list: {

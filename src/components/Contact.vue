@@ -20,6 +20,7 @@
 <script setup>
 	import contacts from '@/contacts.js'
 	import CardProfile from '@/components/CardProfile.vue'
-
+  
+  //Generate link to api.whatsapp
 	const createLink = num => `https://api.whatsapp.com/send?phone=${num}`
 </script>
