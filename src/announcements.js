@@ -14,7 +14,7 @@ export default [
 	  publishDate: 'Sabtu, 26 februari 2022',
 	  content: `
 	    Ayo semarakkan kegiatan IT Gathering tahun 2022 dengan ikut menggunakan twibbon official dan jangan lupa untuk mention dan share sebanyak - banyaknya. <br>
-	    Twibbon bisa didapatkan <a class="text-blue-500 font-medium" href="twb.nz/it-gathering-2022">disini</a>
+	    Twibbon bisa didapatkan <a class="text-blue-500 font-medium" href="https://twb.nz/it-gathering-2022">disini</a>
 	  `
 	}
 ]
