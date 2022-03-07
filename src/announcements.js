@@ -16,5 +16,13 @@ export default [
 	    Ayo semarakkan kegiatan IT Gathering tahun 2022 dengan ikut menggunakan twibbon official dan jangan lupa untuk mention dan share sebanyak - banyaknya. <br>
 	    Twibbon bisa didapatkan <a class="text-blue-500 font-medium" href="https://twb.nz/it-gathering-2022">disini</a>
 	  `
+	},
+	{
+		title: 'Sertifikat Peserta IT Gathering HIMA TI Polihasnur Tahun 2022',
+		publishDate: 'Senin, 7 Maret 2022',
+		content: `
+			Seluruh rangkaian kegiatan IT Gathering HIMA TI Polihasnur Tahun 2022 telah resmi ditutup, 
+			berikut ini kami lampirkan link Google Drive sertifikat peserta <a class="text-blue-500 font-medium" href="https://drive.google.com/drive/folders/1P7CwJchqevK75UlV9TTc6biszuIW7c3w?usp=sharing">disini</a>
+		`
 	}
 ]
